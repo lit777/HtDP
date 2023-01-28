@@ -1,12 +1,14 @@
 # HtDP
-Welcome to the HtDP repository! This repository contains the R and Rcpp code to reproduce the results in the paper "Dirichelt Process Mixture Models using Matrix-Generalized Half-t Distribution".
+Welcome to the HtDP repository! This repository contains the R & Rcpp code to reproduce the results in the paper "Dirichelt Process Mixture Models using Matrix-Generalized Half-t Distribution".
 
-To get started, navigate to the code folder and run the code_modeling.R file. All the analyses are performed sequentially, so you can easily reproduce the results from the paper.
+To run the code, please do the following:
 
-The repository includes the following files:
+1. Clone the repository to your local machine
+2. Navigate to the 'code' folder
+3. Run the 'code_modeling.R' file. 
+This will execute all the analyses sequentially.
+Please note that the code is written in R and Rcpp, so you will need to have these installed on your machine in order to run the code. Also, make sure you have the necessary packages installed before running the code.
 
-code_modeling.R: R script to run all the analyses
-HtDP_functions.R: R functions used in the analyses
-HtDP_functions.cpp: Rcpp functions used in the analyses
-data: contains the datasets used in the analyses
-If you have any questions or issues, please feel free to open an issue or contact us directly. We hope you find this repository useful and enjoy reproducing the results!
+We hope you find the code and results in this repository useful. If you have any questions or feedback, please feel free to open an issue on this repository or contact us directly.
+
+Thank you for visiting HtDP!
