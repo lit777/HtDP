@@ -4,11 +4,9 @@ Welcome to the HtDP repository! This repository contains the R & Rcpp code to re
 To run the code, please do the following:
 
 1. Clone the repository to your local machine
-```
-git clone https://github.com/username/HtDP.git
-```
 2. Navigate to the `code` folder
 3. Run the `code_modeling.R` file. 
+
 This will execute all the analyses sequentially.
 Please note that the code is written in R and Rcpp, so you will need to have these installed on your machine in order to run the code. Also, make sure you have the necessary packages installed before running the code.
 
